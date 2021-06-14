@@ -12,145 +12,145 @@
 	<xsl:template name="Start">
 		<xsl:choose>
 			<xsl:when test="b:Version">
-				<xsl:text>2010.2.02</xsl:text>
+				<xsl:text>2021.6.13</xsl:text>
 			</xsl:when>
 
 			<xsl:when test="b:XslVersion">
-				<xsl:text>2006</xsl:text>
+				<xsl:text>2021</xsl:text>
 			</xsl:when>
       <xsl:when test="b:StyleNameLocalized">
         <xsl:choose>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1033'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1025'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1037'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1041'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='2052'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1028'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1042'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1036'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1040'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='3082'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1043'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1031'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1046'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1049'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1035'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1032'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1081'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1054'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1057'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1086'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1066'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1053'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1069'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1027'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1030'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1110'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1044'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1061'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1062'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1063'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1045'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='2070'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1029'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1055'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1038'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1048'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1058'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1026'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1050'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1087'">
             <xsl:text>Электр және электроника инженерлері институты</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='2074'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='3098'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1051'">
-            <xsl:text>IEEE</xsl:text>
+            <xsl:text>IEEE_akinobu</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1060'">
-            <xsl:text>Način citiranja IEEE</xsl:text>
+            <xsl:text>Način citiranja IEEE_akinobu</xsl:text>
           </xsl:when>
         </xsl:choose>
       </xsl:when>
@@ -589,7 +589,8 @@
 				<xsl:with-param name="LCID" select="$LCID"/>
 			</xsl:call-template>
 		</xsl:variable>
-		<xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:Strings/b:AccessedCap"/>
+		<!-- <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:Strings/b:AccessedCap"/> -->
+		<xsl:text>閲覧日: </xsl:text>
 	</xsl:template>
 
 	<xsl:template name="templ_str_OnlineCap" >
@@ -7100,11 +7101,15 @@
 									<xsl:with-param name="stringToBeReplaced" select="' %1'"/>
 									<xsl:with-param name="stringReplacement" select="$prop_Space"/>
 								</xsl:call-template>
-								<xsl:value-of select="b:DayAccessed"/>
-								<xsl:call-template name ="templ_prop_Space"/>
-								<xsl:value-of select="b:MonthAccessed"/>
-								<xsl:call-template name ="templ_prop_Space"/>
 								<xsl:value-of select="b:YearAccessed"/>
+								<xsl:text>年</xsl:text>
+								<xsl:value-of select="b:MonthAccessed"/>
+								<xsl:text>月</xsl:text>
+								<xsl:value-of select="b:DayAccessed"/>
+								<xsl:text>日</xsl:text>
+								<!-- <xsl:call-template name ="templ_prop_Space"/> -->
+								<!-- <xsl:call-template name ="templ_prop_Space"/> -->
+
 								<xsl:call-template name ="templ_prop_SecondaryClose"/>
 							</xsl:if>
 						</xsl:when>
